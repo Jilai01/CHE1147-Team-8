@@ -11,6 +11,7 @@ Breakdown:
 For continuity with the other deliverables and lessons in CHE1147, the code runs in the CHE1147 environment. (CHE1147 Repo: https://github.com/AI4ChemS/CHE1147/tree/main)
 
 Reproduce:
+
 `conda env create -f environment.yml`
 
 `conda activate che1147`
