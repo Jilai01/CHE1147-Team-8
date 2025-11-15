@@ -12,4 +12,5 @@ For continuity with the other deliverables and lessons in CHE1147, the code runs
 
 Reproduce:
 `conda env create -f environment.yml`
+
 `conda activate che1147`
