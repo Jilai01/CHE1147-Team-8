@@ -3,7 +3,7 @@ Term project analyzing EAF steelmaking with machine learning techniques.
 
 ## Repo Description
 Breakdown:
-- `raw_data/` -> contains raw data from Kaggle (https://www.kaggle.com/datasets/yuriykatser/industrial-data-from-the-arc-furnace) stored here with Github LFS.
+- `raw_data/` -> contains raw data from Kaggle (https://www.kaggle.com/datasets/yuriykatser/industrial-data-from-the-arc-furnace) stored here with Github large file storage (LFS).
 - `preprocessed_data/` -> contains csv of preprocessed data which is an input to the EAF energy supervised learning model.
 - `graveyard/` -> backup of old and/or local copies of files from early in the term
 
