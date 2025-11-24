@@ -1,4 +1,4 @@
-name: che1147
+name: CHE1147 Team 8
 channels:
   - conda-forge
   - defaults
@@ -19,22 +19,6 @@ dependencies:
   - matplotlib
   - plotly
   - bokeh
-  - holoviews
-
-  # ML / Optimization
-  - xgboost
-  - hyperopt
-
-  # Cheminformatics
-  - rdkit
-  - mordred
-
-  # Visualization / profiling
-  - ydata-profiling
-  - pymatviz
-
-  # Widgets
-  - ipywidgets
 
   # pip-only packages (if any specific versions are missing from conda)
   - pip:
