@@ -12,7 +12,7 @@ Running Code:
 2. The 'EAF_Supervised_Learning.ipynb' notebook contains code related to training and assessing the various SL models described in the final report.
 
 ## Setup
-For continuity with the other deliverables and lessons in CHE1147, the code runs in the CHE1147 environment. (CHE1147 Repo: https://github.com/AI4ChemS/CHE1147/tree/main)
+For continuity with the other deliverables and lessons in CHE1147, the code runs in an environment based on the CHE1147 environment, and modified for this project. (CHE1147 Repo: https://github.com/AI4ChemS/CHE1147/tree/main)
 
 Reproduce:
 
